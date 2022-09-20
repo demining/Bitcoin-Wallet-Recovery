@@ -60,8 +60,8 @@
 
 <h3>Bash script: btcrecover.sh</h3>
 
-
-
+<pre class="wp-block-code"><code>wget https://bootstrap.pypa.io/pip/2.7/get-pip.py
+<pre class="wp-block-code"><code>sudo python2 get-pip.py
 <pre class="wp-block-code"><code>pip2 install -r requirements.txt
 chmod +x btcrecover.sh
 
